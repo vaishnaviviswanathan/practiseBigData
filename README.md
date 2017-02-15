@@ -18,5 +18,4 @@ git log --graph ---> shows you the chnages with the commit hashes
 9) git checkout master -> going inside master and pulling request from vaish branch and then pushing all these changes to master finally </br>
 10) git pull origin vaish </br>
 11) git push origin master </br>
-12) END OF STORY ---! "So, Simple :D, took some time to figure things out though" </br>
-10)  
+12) END OF STORY ---! "So, Simple :D, took some time to figure things out though!" </br>  
