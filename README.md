@@ -19,3 +19,7 @@ git log --graph ---> shows you the chnages with the commit hashes
 10) git pull origin vaish </br>
 11) git push origin master </br>
 12) END OF STORY ---! "So, Simple :D, took some time to figure things out though!" </br>  
+(on branch development)$ git merge master </br>  
+(resolve any merge conflicts if there are any) </br>  
+git checkout master </br>  
+git merge development (there won't be any conflicts now) </br>  
