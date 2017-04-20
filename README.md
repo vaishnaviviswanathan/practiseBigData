@@ -25,10 +25,10 @@ git checkout master </br>
 git merge development (there won't be any conflicts now) </br>  
 
 
-----------
-to check and delete previously made commits
----------
-git rebase -i master
-git rebase -i HEAD~2
-git rebase -i HEAD~4
+----------</br>  
+to check and delete previously made commits</br>  
+---------</br>  
+git rebase -i master</br>  
+git rebase -i HEAD~2</br>  
+git rebase -i HEAD~4</br>  
 
