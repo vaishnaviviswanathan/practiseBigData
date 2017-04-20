@@ -23,3 +23,12 @@ git log --graph ---> shows you the chnages with the commit hashes
 (resolve any merge conflicts if there are any) </br>  
 git checkout master </br>  
 git merge development (there won't be any conflicts now) </br>  
+
+
+----------
+to check and delete previously made commits
+---------
+git rebase -i master
+git rebase -i HEAD~2
+git rebase -i HEAD~4
+
